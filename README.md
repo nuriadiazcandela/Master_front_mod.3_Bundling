@@ -1,6 +1,6 @@
 # Master Frontend Módulo 3 Bundling :lemon:
 
-## Implementaruna aplicación simple que:
+## Implementar una aplicación simple que:
 
 - Tenga el bundling montado con webpack.
 - Muestre un logo (por ejemplo el de lemoncode u otro que queráis). Esté montada con Typescript.
